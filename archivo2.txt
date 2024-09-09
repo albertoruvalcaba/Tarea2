@@ -1,0 +1,4 @@
+Fundamentos de programación es el soporte directo de las
+asignaturas: programación orientada a objetos, estructura de datos, tópicos 
+avanzados de programación y de forma indirecta se relaciona con el desarrollo de 
+sistemas de software, sistemas operativos y programación de sistemas.
